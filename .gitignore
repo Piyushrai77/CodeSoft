@@ -10,7 +10,7 @@ out/
 .project
 .settings
 .springBeans
-.sts4-cache
+
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
@@ -27,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/Project2/Atm.java
